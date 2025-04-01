@@ -1,21 +1,12 @@
 # Backend - API de Buses
 
-## Descripción
-Este backend es una API REST desarrollada con **Spring Boot 3** y **Java 17**. Gestiona información sobre buses y permite la paginación, además de filtrar solo los buses activos.
-
 ## Tecnologías Utilizadas
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3**
 - **Spring Data JPA**
 - **MySQL**
-- **Docker (Opcional)**
+- **Lombok**
 - **Maven**
-
-## Instalación y Ejecución
-### Prerequisitos
-- Tener instalado **Java 17** o superior.
-- Tener instalado **MySQL**.
-- Tener **Maven** instalado.
 
 ### Configuración de la Base de Datos
 1. Crear una base de datos en MySQL:
